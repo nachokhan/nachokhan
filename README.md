@@ -1,7 +1,3 @@
-# 💫 About Me:
-👨‍💻 **Software Developer**<br><br>I’m always juggling some code projects while trying to look productive at my day job.<br><br>🚵‍♂️ **Mountain Biker on the Weekends**<br><br>When I’m not debugging, you’ll find me conquering trails on my mountain bike, keeping my brain fresh and my body... well, mostly in one piece.<br><br> 🖥️☕️<br><br>🎥 **TikTok Code Whisperer**<br><br>I also share my love for programming on TikTok! Check out my nerdy rants and tech tips at [@nachokhan84](https://www.tiktok.com/@nachokhan84). You might learn something... or just laugh at my attempts. 😎📱<br><br>**Currently:**<br><br>🔭 Always working on new projects.  <br>🌱 Learning, growing, and occasionally breaking production servers (hey, who doesn’t?).  <br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nacho_lockenkopf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nachokhan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nachokhan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nachokhan84) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nachokhan) 
 
@@ -23,7 +19,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nachokhan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mendobike) 
-
